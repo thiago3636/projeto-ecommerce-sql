@@ -1,7 +1,7 @@
 -- ============================================
 -- PROJETO: Sistema de Vendas / E-commerce
 -- Banco de Dados: SQL Server
--- Autor: [Seu Nome]
+-- Autor: Thiago Rodrigues 
 -- Data: 2026-05-07
 -- ============================================
 
